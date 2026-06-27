@@ -40,7 +40,7 @@
 	{/key}
 
 	<footer class="footer">
-		<p>Vandernoot family itinerary · Updated from trip planning spreadsheet</p>
+		<p>Vandernoot family itinerary</p>
 	</footer>
 </main>
 
