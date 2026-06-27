@@ -3,7 +3,7 @@ import type { TripDay } from './types';
 export const tripDays: TripDay[] = [
 	{
 		id: '2026-07-12',
-		date: 'Saturday, July 12',
+		date: 'Sunday, July 12',
 		label: 'Day 1',
 		location: 'Omaha',
 		dayNumber: 1,
@@ -20,7 +20,7 @@ export const tripDays: TripDay[] = [
 	},
 	{
 		id: '2026-07-13',
-		date: 'Sunday, July 13',
+		date: 'Monday, July 13',
 		label: 'Day 2',
 		location: 'Omaha',
 		dayNumber: 2,
@@ -49,7 +49,7 @@ export const tripDays: TripDay[] = [
 	},
 	{
 		id: '2026-07-14',
-		date: 'Monday, July 14',
+		date: 'Tuesday, July 14',
 		label: 'Day 3',
 		location: 'Badlands',
 		dayNumber: 3,
@@ -64,7 +64,7 @@ export const tripDays: TripDay[] = [
 	},
 	{
 		id: '2026-07-15',
-		date: 'Tuesday, July 15',
+		date: 'Wednesday, July 15',
 		label: 'Day 4',
 		location: 'Badlands',
 		dayNumber: 4,
@@ -85,7 +85,7 @@ export const tripDays: TripDay[] = [
 	},
 	{
 		id: '2026-07-16',
-		date: 'Wednesday, July 16',
+		date: 'Thursday, July 16',
 		label: 'Day 5',
 		location: 'Custer / Black Hills',
 		dayNumber: 5,
@@ -112,7 +112,7 @@ export const tripDays: TripDay[] = [
 	},
 	{
 		id: '2026-07-17',
-		date: 'Thursday, July 17',
+		date: 'Friday, July 17',
 		label: 'Day 6',
 		location: 'Custer → Sioux Falls',
 		dayNumber: 6,
@@ -138,7 +138,7 @@ export const tripDays: TripDay[] = [
 	},
 	{
 		id: '2026-07-18',
-		date: 'Friday, July 18',
+		date: 'Saturday, July 18',
 		label: 'Day 7',
 		location: 'Sioux Falls → Des Moines',
 		dayNumber: 7,
@@ -157,7 +157,7 @@ export const tripDays: TripDay[] = [
 	},
 	{
 		id: '2026-07-19',
-		date: 'Saturday, July 19',
+		date: 'Sunday, July 19',
 		label: 'Day 8',
 		location: 'Des Moines → Home',
 		dayNumber: 8,
